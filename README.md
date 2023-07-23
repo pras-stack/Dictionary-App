@@ -36,5 +36,4 @@ A live demo of the React Dictionary App is available at [LINK TO LIVE DEMO](http
 - The dictionary app was created by [s-shemmee](https://github.com/s-shemmee) .
 - The app uses the [Free Dictionary API](https://dictionaryapi.dev) for word information and the [Pexels API](https://www.pexels.com/api/documentation/) for images.
 
-# License
-This project is licensed under the MIT license.
+
