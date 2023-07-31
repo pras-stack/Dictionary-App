@@ -30,7 +30,7 @@ To use this app, you can follow these steps:
 To use the app, simply type a word in the search bar to retrieve its definitions, synonyms, antonyms, and example sentences.
 
 # Demo
-A live demo of the React Dictionary App is available at [LINK TO LIVE DEMO]([https://dictionary-react-app-kohl.vercel.app](https://react-dictionary-app-pras.netlify.app/)).
+A live demo of the React Dictionary App is available at [LINK TO LIVE DEMO](https://react-dictionary-app-pras.netlify.app/).
 
 # Credits
 - The app uses the [Free Dictionary API](https://dictionaryapi.dev) for word information and the [Pexels API](https://www.pexels.com/api/documentation/) for images.
